@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 from llama_index.llms.openai import OpenAI as LlamaOpenAI
 from src.dataset import Dataset
-from lib.parsealerts import parse_logs
+from lib.parse_logs import parse_logs
 
 load_dotenv()
 

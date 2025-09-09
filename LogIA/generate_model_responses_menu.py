@@ -4,7 +4,7 @@ import requests
 import re
 
 from datetime import datetime
-from lib.parsealerts import parse_logs
+from lib.parse_logs import parse_logs
 
 from dotenv import load_dotenv
 
