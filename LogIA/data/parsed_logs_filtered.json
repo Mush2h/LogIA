@@ -1,0 +1,497 @@
+{"timestamp":1751578897955,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751578897866,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751578897852,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751536430343,"agent.name":"hera2","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751535659994,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751535659719,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751535659526,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751535659303,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751531608116,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751493193526,"agent.name":"hera2","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751492420184,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751492419919,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751492419913,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751492419907,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751449952956,"agent.name":"hera2","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751449181480,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751444293005,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1751405942877,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751405942870,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751400847402,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":19004,"rule.description":"SCA summary: CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Score less than 50% (37)"}
+{"timestamp":1751362704712,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751362704578,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751358581444,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751357862532,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1751357860733,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1751357860623,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1751357859492,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1751357859450,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1751357655754,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":19004,"rule.description":"SCA summary: CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Score less than 50% (37)"}
+{"timestamp":1751321174000,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":533,"rule.description":"Listened ports status (netstat) changed (new port opened or closed)."}
+{"timestamp":1751320813540,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":533,"rule.description":"Listened ports status (netstat) changed (new port opened or closed)."}
+{"timestamp":1751319466453,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751319466303,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751319466040,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751314653290,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":553,"rule.description":"File deleted."}
+{"timestamp":1751314645340,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1751314645299,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1751314644216,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1751314639189,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1751276488488,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":533,"rule.description":"Listened ports status (netstat) changed (new port opened or closed)."}
+{"timestamp":1751276227972,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751276227580,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751276227573,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751272042847,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751232989161,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751228774113,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751228041540,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":19004,"rule.description":"SCA summary: CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Score less than 50% (36)"}
+{"timestamp":1751189750170,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751189749799,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751189749796,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751189749786,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751185506982,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751146511448,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751145023191,"agent.name":"hera2","rule.level":9,"rule.id":19014,"rule.description":"CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Ensure updates, patches, and additional security software are installed: Status changed from 'not applicable' to failed"}
+{"timestamp":1751142240079,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751141657761,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":19004,"rule.description":"SCA summary: CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Score less than 50% (36)"}
+{"timestamp":1751103273597,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751103273179,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751103273053,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751103273047,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751060034790,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751055705102,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751017634261,"agent.name":"hera2","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751016796401,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751016796322,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1751012105683,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1751012036083,"agent.name":"hera.ugr.es","rule.level":9,"rule.id":19014,"rule.description":"CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Ensure updates, patches, and additional security software are installed: Status changed from 'not applicable' to failed"}
+{"timestamp":1750973556922,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750930319271,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750930318945,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750930318582,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750887936378,"agent.name":"hera2","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750887839930,"agent.name":"hera2","rule.level":7,"rule.id":553,"rule.description":"File deleted."}
+{"timestamp":1750887835145,"agent.name":"hera2","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1750887835103,"agent.name":"hera2","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1750887823051,"agent.name":"hera2","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1750887823049,"agent.name":"hera2","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1750887823046,"agent.name":"hera2","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1750887818733,"agent.name":"hera2","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1750887080517,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750887080384,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750844683778,"agent.name":"hera2","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750844599812,"agent.name":"hera2","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1750843841075,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750843840924,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750843840760,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750839384590,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750800602407,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750760016652,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":533,"rule.description":"Listened ports status (netstat) changed (new port opened or closed)."}
+{"timestamp":1750758711146,"agent.name":"hera.ugr.es","rule.level":10,"rule.id":80711,"rule.description":"Auditd: Process ended abnormally."}
+{"timestamp":1750758214786,"agent.name":"hera2","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750757364468,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750757364012,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750752465630,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":19004,"rule.description":"SCA summary: CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Score less than 50% (36)"}
+{"timestamp":1750752455792,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750746361084,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750717148079,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1750714985531,"agent.name":"hera2","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750714125542,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750670887873,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750627648082,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750627647931,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750627647781,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750627647656,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750584409683,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750584409235,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750584409231,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750584409222,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750541170575,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750541170366,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750541169860,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750541169848,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750498491112,"agent.name":"hera2","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750497932128,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750497931877,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750454693127,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750454693123,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750454693117,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750443568956,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750411453809,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750411453706,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750411453702,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750400249472,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750368215433,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750325564792,"agent.name":"hera2","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750324977443,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750324977134,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750324976990,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750313709557,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750281739073,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750281738655,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750241765629,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1750241765612,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1750241765578,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1750241765393,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1750238500599,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750236962961,"agent.name":"hera.ugr.es","rule.level":8,"rule.id":5902,"rule.description":"New user added to the system."}
+{"timestamp":1750195873492,"agent.name":"hera2","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750195261269,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750154927462,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1750154927034,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1750152622121,"agent.name":"hera2","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750152023068,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750152022926,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750152022792,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750152022658,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750152022515,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750150593016,"agent.name":"hera.ugr.es","rule.level":8,"rule.id":5901,"rule.description":"New group added to the system."}
+{"timestamp":1750111667467,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1750111667419,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1750111661086,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1750111660199,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1750111660112,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1750111660070,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1750109394435,"agent.name":"hera2","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750108784867,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750108784433,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750074988528,"agent.name":"hera.ugr.es","rule.level":8,"rule.id":5901,"rule.description":"New group added to the system."}
+{"timestamp":1750068427990,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1750068423374,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1750066165071,"agent.name":"hera2","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750066116012,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750065545232,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750065544841,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750065544838,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1750060592280,"agent.name":"hera.ugr.es","rule.level":8,"rule.id":5901,"rule.description":"New group added to the system."}
+{"timestamp":1750022306775,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749979068641,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749979068289,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749979068174,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749969974273,"agent.name":"clavo.ugr.es","rule.level":11,"rule.id":521,"rule.description":"Possible kernel level rootkit"}
+{"timestamp":1749969974228,"agent.name":"clavo.ugr.es","rule.level":11,"rule.id":521,"rule.description":"Possible kernel level rootkit"}
+{"timestamp":1749969971897,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749964255636,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749936467094,"agent.name":"hera2","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749935829301,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749935828975,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749935828884,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749935828877,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749935828870,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749899816289,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":19004,"rule.description":"SCA summary: CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Score less than 50% (36)"}
+{"timestamp":1749896867250,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749895563318,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749895561677,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749895561676,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749892590532,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749892590432,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749892590426,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749887763672,"agent.name":"hera.ugr.es","rule.level":8,"rule.id":5902,"rule.description":"New user added to the system."}
+{"timestamp":1749877729381,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749856696240,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":19004,"rule.description":"SCA summary: CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Score less than 50% (36)"}
+{"timestamp":1749852951117,"agent.name":"clavo.ugr.es","rule.level":8,"rule.id":52502,"rule.description":"ClamAV: Virus detected"}
+{"timestamp":1749852951073,"agent.name":"clavo.ugr.es","rule.level":8,"rule.id":52502,"rule.description":"ClamAV: Virus detected"}
+{"timestamp":1749850010701,"agent.name":"hera2","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749849352165,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749849352069,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749849352066,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749849352063,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749839211007,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749837523301,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749837523290,"agent.name":"clavo.ugr.es","rule.level":11,"rule.id":521,"rule.description":"Possible kernel level rootkit"}
+{"timestamp":1749837523286,"agent.name":"clavo.ugr.es","rule.level":11,"rule.id":521,"rule.description":"Possible kernel level rootkit"}
+{"timestamp":1749837523285,"agent.name":"clavo.ugr.es","rule.level":11,"rule.id":521,"rule.description":"Possible kernel level rootkit"}
+{"timestamp":1749837523275,"agent.name":"clavo.ugr.es","rule.level":11,"rule.id":521,"rule.description":"Possible kernel level rootkit"}
+{"timestamp":1749837522153,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749834452687,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749815864578,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":533,"rule.description":"Listened ports status (netstat) changed (new port opened or closed)."}
+{"timestamp":1749813703934,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":533,"rule.description":"Listened ports status (netstat) changed (new port opened or closed)."}
+{"timestamp":1749813359798,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":19004,"rule.description":"SCA summary: CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Score less than 50% (36)"}
+{"timestamp":1749813343243,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":533,"rule.description":"Listened ports status (netstat) changed (new port opened or closed)."}
+{"timestamp":1749813334400,"agent.name":"clavo.ugr.es","rule.level":9,"rule.id":19011,"rule.description":"CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Ensure firewalld service is enabled and running: Status changed from passed to failed"}
+{"timestamp":1749813326030,"agent.name":"clavo.ugr.es","rule.level":9,"rule.id":19014,"rule.description":"CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Ensure X Window System is not installed: Status changed from 'not applicable' to failed"}
+{"timestamp":1749810463881,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":533,"rule.description":"Listened ports status (netstat) changed (new port opened or closed)."}
+{"timestamp":1749806113748,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749806113658,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749806113655,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749806113643,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749806113637,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749791195709,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749762875552,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749762875280,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749762639543,"agent.name":"hera2","rule.level":7,"rule.id":19004,"rule.description":"SCA summary: CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Score less than 50% (37)"}
+{"timestamp":1749749780318,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749747932969,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749733729528,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749733725829,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749722702678,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749722702599,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749722702521,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749722702314,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749722702311,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749722702309,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749722702288,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749720316641,"agent.name":"hera2","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749719636509,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749719636224,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749719636082,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749719635917,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749719635913,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749719635903,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749719443787,"agent.name":"hera2","rule.level":7,"rule.id":19004,"rule.description":"SCA summary: CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Score less than 50% (37)"}
+{"timestamp":1749718590332,"agent.name":"hera.ugr.es","rule.level":8,"rule.id":5901,"rule.description":"New group added to the system."}
+{"timestamp":1749718564263,"agent.name":"hera.ugr.es","rule.level":8,"rule.id":5902,"rule.description":"New user added to the system."}
+{"timestamp":1749711481934,"agent.name":"clavo.ugr.es","rule.level":8,"rule.id":52502,"rule.description":"ClamAV: Virus detected"}
+{"timestamp":1749711479921,"agent.name":"clavo.ugr.es","rule.level":8,"rule.id":52502,"rule.description":"ClamAV: Virus detected"}
+{"timestamp":1749689742480,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749683753456,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":19004,"rule.description":"SCA summary: CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Score less than 50% (37)"}
+{"timestamp":1749679488117,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749679486495,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749679486475,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749679486463,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749679486401,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749679486310,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749679486300,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749679486298,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749679486232,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749677073477,"agent.name":"hera2","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749676397990,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749676397772,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749676397663,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749676397566,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749676397563,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749676397559,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749676397554,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749661418900,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749646227997,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749641094920,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":19004,"rule.description":"SCA summary: CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Score less than 50% (37)"}
+{"timestamp":1749639391492,"agent.name":"hera.ugr.es","rule.level":8,"rule.id":5901,"rule.description":"New group added to the system."}
+{"timestamp":1749639363504,"agent.name":"hera.ugr.es","rule.level":8,"rule.id":5902,"rule.description":"New user added to the system."}
+{"timestamp":1749633841874,"agent.name":"hera2","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749633160188,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749633159988,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749633159195,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749633159191,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749633042318,"agent.name":"hera2","rule.level":7,"rule.id":19004,"rule.description":"SCA summary: CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Score less than 50% (37)"}
+{"timestamp":1749593055615,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749593055610,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749593053909,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749593053792,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749593053631,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749593053625,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749593053610,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749593053608,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749593053566,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749590606521,"agent.name":"hera2","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749589920534,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749589920358,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749589920099,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749589919874,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749589919868,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749589919862,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749589818015,"agent.name":"hera2","rule.level":7,"rule.id":19004,"rule.description":"SCA summary: CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Score less than 50% (37)"}
+{"timestamp":1749589482506,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749574897329,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749570397414,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749570392760,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749570391307,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749570390783,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749570390187,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749570389619,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749567498448,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749567497068,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749567496220,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749566656558,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749566504412,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749566489319,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749566489117,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749566488881,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749566488292,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749566488061,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749566487843,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749566487621,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749566487398,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749566486222,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749566485753,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749566485065,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749566484836,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749566484607,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749566484153,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749566483711,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749566483233,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749566483126,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749566482813,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749566481561,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749566480887,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749566480663,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749566480429,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749566480224,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749566479863,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749566419433,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749566418983,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749566417264,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749566342162,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749556584455,"agent.name":"hera.ugr.es","rule.level":8,"rule.id":5901,"rule.description":"New group added to the system."}
+{"timestamp":1749556564440,"agent.name":"hera.ugr.es","rule.level":8,"rule.id":5902,"rule.description":"New user added to the system."}
+{"timestamp":1749554255134,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":19004,"rule.description":"SCA summary: CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Score less than 50% (37)"}
+{"timestamp":1749554185240,"agent.name":"clavo.ugr.es","rule.level":9,"rule.id":19014,"rule.description":"CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Ensure updates, patches, and additional security software are installed: Status changed from 'not applicable' to failed"}
+{"timestamp":1749549840692,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749549840651,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749549838833,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749549838818,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749549838784,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749549838737,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749549838539,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749549838515,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749549838466,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749547376904,"agent.name":"hera2","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749546681703,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749546681561,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749546681438,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749546681434,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749546681424,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749537447249,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":533,"rule.description":"Listened ports status (netstat) changed (new port opened or closed)."}
+{"timestamp":1749537066872,"agent.name":"clavo.ugr.es","rule.level":8,"rule.id":5901,"rule.description":"New group added to the system."}
+{"timestamp":1749531636348,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749529110656,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749506626833,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749506626830,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749506625633,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749506625615,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749506625593,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749506625424,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749506625424,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749506625380,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749506625380,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749503733545,"agent.name":"hera2","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749503443514,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749503443380,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749503443247,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749503443074,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749503443071,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749488373098,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749480965133,"agent.name":"hera.ugr.es","rule.level":8,"rule.id":5902,"rule.description":"New user added to the system."}
+{"timestamp":1749465036918,"agent.name":"hera.ugr.es","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1749463412562,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749463412552,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749463411043,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749463410991,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749463410787,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749463410776,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749463410776,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749463410735,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749460649260,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749460205184,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749460204686,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749460204682,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749460204679,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749460204673,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749455763488,"agent.name":"hera.ugr.es","rule.level":8,"rule.id":5902,"rule.description":"New user added to the system."}
+{"timestamp":1749445106193,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749417684996,"agent.name":"hera2","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749416966926,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749416966467,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749416966332,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749416966329,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749416966325,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749416966320,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749374456151,"agent.name":"hera2","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749373728398,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749373728264,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749373728131,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749373727869,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749373727857,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749358584345,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749347570387,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749330619768,"agent.name":"hera2","rule.level":7,"rule.id":19004,"rule.description":"SCA summary: CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Score less than 50% (37)"}
+{"timestamp":1749330613019,"agent.name":"hera2","rule.level":9,"rule.id":19014,"rule.description":"CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Ensure updates, patches, and additional security software are installed: Status changed from 'not applicable' to failed"}
+{"timestamp":1749330490173,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749330489873,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749330489722,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749330489587,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749330489583,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749330489577,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749294982891,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":19004,"rule.description":"SCA summary: CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Score less than 50% (37)"}
+{"timestamp":1749293094293,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749287251353,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749287251339,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749287251261,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749287251258,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749287251255,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749287251252,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749287251242,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749248220799,"agent.name":"clavo.ugr.es","rule.level":8,"rule.id":52502,"rule.description":"ClamAV: Virus detected"}
+{"timestamp":1749247309390,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749244767541,"agent.name":"hera2","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749244240640,"agent.name":"hera2","rule.level":7,"rule.id":19004,"rule.description":"SCA summary: CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Score less than 50% (37)"}
+{"timestamp":1749244012072,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749244012058,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749244011977,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749244011961,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749243394539,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749235773829,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749235773582,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749235766428,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749228784619,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749201518949,"agent.name":"hera2","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749200773709,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749200773695,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749200773611,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749200773608,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749200773604,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749200773599,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749199016905,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749185415766,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749160855209,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749160854121,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749160854103,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749160854060,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749160854012,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749160853968,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749160853968,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749157535891,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749157535783,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749157535657,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749157535532,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749157535323,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749157535310,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749149783099,"agent.name":"hera.ugr.es","rule.level":8,"rule.id":5901,"rule.description":"New group added to the system."}
+{"timestamp":1749149763318,"agent.name":"hera.ugr.es","rule.level":8,"rule.id":5902,"rule.description":"New user added to the system."}
+{"timestamp":1749142144852,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749122140031,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":19004,"rule.description":"SCA summary: CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Score less than 50% (37)"}
+{"timestamp":1749117641072,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749117637087,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749115060177,"agent.name":"hera2","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749114632658,"agent.name":"hera2","rule.level":7,"rule.id":19004,"rule.description":"SCA summary: CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Score less than 50% (37)"}
+{"timestamp":1749114296491,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749114296382,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749114296265,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749114296148,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749114295975,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749114295971,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749114295968,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749114295962,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749109403138,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749074427565,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749074427507,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749074427404,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749074427399,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749074427394,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749074427368,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749074427366,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749074423548,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed."}
+{"timestamp":1749071824800,"agent.name":"hera2","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749071058162,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749071058045,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749071057676,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749066991468,"agent.name":"hera.ugr.es","rule.level":8,"rule.id":5901,"rule.description":"New group added to the system."}
+{"timestamp":1749039022480,"agent.name":"clavo.ugr.es","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749028587596,"agent.name":"hera2","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749028241670,"agent.name":"hera2","rule.level":7,"rule.id":19004,"rule.description":"SCA summary: CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Score less than 50% (37)"}
+{"timestamp":1749027819510,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749027819401,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749027819293,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749027819199,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749027819195,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749027819192,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}
+{"timestamp":1749027819186,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck)."}

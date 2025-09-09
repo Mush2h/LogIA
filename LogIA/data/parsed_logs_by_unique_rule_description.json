@@ -1,0 +1,44 @@
+{"timestamp":1749969974273,"agent.name":"clavo.ugr.es","rule.level":11,"rule.id":521,"rule.description":"Possible kernel level rootkit","count":6}
+{"timestamp":1749465036918,"agent.name":"hera.ugr.es","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time","count":1}
+{"timestamp":1750758711146,"agent.name":"hera.ugr.es","rule.level":10,"rule.id":80711,"rule.description":"Auditd: Process ended abnormally.","count":1}
+{"timestamp":1751145023191,"agent.name":"hera2","rule.level":9,"rule.id":19014,"rule.description":"CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Ensure updates, patches, and additional security software are installed: Status changed from 'not applicable' to failed","count":4}
+{"timestamp":1749813326030,"agent.name":"clavo.ugr.es","rule.level":9,"rule.id":19014,"rule.description":"CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Ensure X Window System is not installed: Status changed from 'not applicable' to failed","count":1}
+{"timestamp":1749813334400,"agent.name":"clavo.ugr.es","rule.level":9,"rule.id":19011,"rule.description":"CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Ensure firewalld service is enabled and running: Status changed from passed to failed","count":1}
+{"timestamp":1749852951117,"agent.name":"clavo.ugr.es","rule.level":8,"rule.id":52502,"rule.description":"ClamAV: Virus detected","count":5}
+{"timestamp":1750150593016,"agent.name":"hera.ugr.es","rule.level":8,"rule.id":5901,"rule.description":"New group added to the system.","count":9}
+{"timestamp":1750236962961,"agent.name":"hera.ugr.es","rule.level":8,"rule.id":5902,"rule.description":"New user added to the system.","count":8}
+{"timestamp":1751578897955,"agent.name":"Siem","rule.level":7,"rule.id":510,"rule.description":"Host-based anomaly detection event (rootcheck).","count":279}
+{"timestamp":1751314653290,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":553,"rule.description":"File deleted.","count":2}
+{"timestamp":1751228041540,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":19004,"rule.description":"SCA summary: CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Score less than 50% (36)","count":6}
+{"timestamp":1751400847402,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":19004,"rule.description":"SCA summary: CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Score less than 50% (37)","count":15}
+{"timestamp":1751444293005,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":550,"rule.description":"Integrity checksum changed.","count":150}
+{"timestamp":1751321174000,"agent.name":"hera.ugr.es","rule.level":7,"rule.id":533,"rule.description":"Listened ports status (netstat) changed (new port opened or closed).","count":9}
+{"timestamp":1749592961556,"agent.name":"hera.ugr.es","rule.level":6,"rule.id":52510,"rule.description":"Clamd stopped","count":1}
+{"timestamp":1751610830552,"agent.name":"hera.ugr.es","rule.level":5,"rule.id":13102,"rule.description":"Samba connection denied.","count":3221}
+{"timestamp":1749809157172,"agent.name":"clavo.ugr.es","rule.level":5,"rule.id":40704,"rule.description":"Systemd: Service exited due to a failure.","count":3}
+{"timestamp":1749838811962,"agent.name":"clavo.ugr.es","rule.level":5,"rule.id":554,"rule.description":"File added to the system.","count":8}
+{"timestamp":1749770805537,"agent.name":"clavo.ugr.es","rule.level":5,"rule.id":19012,"rule.description":"CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Ensure NIS Client is not installed: Status changed from passed to 'not applicable'","count":1}
+{"timestamp":1749986400783,"agent.name":"clavo.ugr.es","rule.level":5,"rule.id":19012,"rule.description":"CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Ensure the MCS Translation Service (mcstrans) is not installed: Status changed from passed to 'not applicable'","count":2}
+{"timestamp":1749708802214,"agent.name":"hera.ugr.es","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed.","count":5}
+{"timestamp":1750679522671,"agent.name":"hera.ugr.es","rule.level":5,"rule.id":5557,"rule.description":"unix_chkpwd: Password check failed.","count":9}
+{"timestamp":1749683676617,"agent.name":"clavo.ugr.es","rule.level":5,"rule.id":19012,"rule.description":"CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Ensure SETroubleshoot is not installed: Status changed from passed to 'not applicable'","count":1}
+{"timestamp":1749640893740,"agent.name":"clavo.ugr.es","rule.level":5,"rule.id":19013,"rule.description":"CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Ensure updates, patches, and additional security software are installed: Status changed from failed to 'not applicable'","count":6}
+{"timestamp":1749557265240,"agent.name":"hera.ugr.es","rule.level":5,"rule.id":5405,"rule.description":"Unauthorized user attempted to use sudo.","count":2}
+{"timestamp":1749556794700,"agent.name":"hera.ugr.es","rule.level":5,"rule.id":5406,"rule.description":"Command not allowed.","count":3}
+{"timestamp":1750846113184,"agent.name":"hera.ugr.es","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed.","count":5}
+{"timestamp":1749536785998,"agent.name":"clavo.ugr.es","rule.level":5,"rule.id":5710,"rule.description":"sshd: Attempt to login using a non-existent user","count":4}
+{"timestamp":1749812968318,"agent.name":"clavo.ugr.es","rule.level":4,"rule.id":5403,"rule.description":"First time user executed sudo.","count":2}
+{"timestamp":1749813286927,"agent.name":"clavo.ugr.es","rule.level":3,"rule.id":19015,"rule.description":"CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Ensure SETroubleshoot is not installed: Status changed from 'not applicable' to passed","count":2}
+{"timestamp":1751367743042,"agent.name":"hera.ugr.es","rule.level":3,"rule.id":52506,"rule.description":"Clamd database updated","count":22}
+{"timestamp":1751612402189,"agent.name":"hera.ugr.es","rule.level":3,"rule.id":5715,"rule.description":"sshd: authentication success.","count":675}
+{"timestamp":1749813329048,"agent.name":"clavo.ugr.es","rule.level":3,"rule.id":19015,"rule.description":"CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Ensure NIS Client is not installed: Status changed from 'not applicable' to passed","count":1}
+{"timestamp":1751612139844,"agent.name":"hera.ugr.es","rule.level":3,"rule.id":5502,"rule.description":"PAM: Login session closed.","count":1760}
+{"timestamp":1751612095750,"agent.name":"hera.ugr.es","rule.level":3,"rule.id":80730,"rule.description":"Auditd: SELinux permission check.","count":563}
+{"timestamp":1750029390039,"agent.name":"clavo.ugr.es","rule.level":3,"rule.id":19015,"rule.description":"CIS Red Hat Enterprise Linux 8 Benchmark v1.0.1: Ensure the MCS Translation Service (mcstrans) is not installed: Status changed from 'not applicable' to passed","count":2}
+{"timestamp":1751612704406,"agent.name":"hera.ugr.es","rule.level":3,"rule.id":5501,"rule.description":"PAM: Login session opened.","count":2689}
+{"timestamp":1750457010448,"agent.name":"hera.ugr.es","rule.level":3,"rule.id":52505,"rule.description":"Clamd restarted","count":5}
+{"timestamp":1750708626844,"agent.name":"hera2","rule.level":3,"rule.id":504,"rule.description":"Wazuh agent disconnected.","count":4}
+{"timestamp":1750752200568,"agent.name":"hera.ugr.es","rule.level":3,"rule.id":506,"rule.description":"Wazuh agent stopped.","count":1}
+{"timestamp":1750752418083,"agent.name":"hera.ugr.es","rule.level":3,"rule.id":503,"rule.description":"Wazuh agent started.","count":1}
+{"timestamp":1751159828564,"agent.name":"hera2","rule.level":3,"rule.id":591,"rule.description":"Log file rotated.","count":14}
+{"timestamp":1751613100776,"agent.name":"hera.ugr.es","rule.level":3,"rule.id":52507,"rule.description":"ClamAV database update","count":491}
