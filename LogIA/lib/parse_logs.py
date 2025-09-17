@@ -1,61 +1,60 @@
 import pandas as pd
+import os
 
-# Input CSV file path
-input_path = "../data/real_events.csv"
+# Base path for outputs
+output_base = "../data"
 
-# Output paths
-output_filtered = "../data/parsed_logs_filtered.json"
-output_all = "../data/parsed_logs_all.json"
-output_by_description = "../data/parsed_logs_by_unique_rule_description.json"
+def parse_logs(input_path, prefix):
+    # Check if the file exists
+    if not os.path.exists(input_path):
+        print(f"[✗] File not found: {input_path}")
+        return
 
-def parse_logs(input_path, output_filtered, output_all, output_by_description):
+    # Output paths
+    output_filtered = os.path.join(output_base, f"{prefix}_parsed_logs_filtered.json")
+    output_all = os.path.join(output_base, f"{prefix}_parsed_logs_all.json")
+    output_by_description = os.path.join(output_base, f"{prefix}_parsed_logs_by_unique_rule_description.json")
+
     # Load CSV
     df = pd.read_csv(input_path)
 
     # Keep only the key columns
     df = df[["timestamp", "agent.name", "rule.level", "rule.id", "rule.description"]]
 
-    # Convert timestamp column to datetime
+    # Convert timestamp to datetime
     df["timestamp"] = pd.to_datetime(
         df["timestamp"],
         format="%b %d, %Y @ %H:%M:%S.%f",
         errors='coerce'
     )
 
-    # ------------------ PARSE 1: Filter by level >= 7 ------------------
-    df_filtered = df[df["rule.level"] >= 7].copy()
-    df_filtered = df_filtered.sort_values(by="timestamp", ascending=False)
+    # ---- PARSE 1: Events with severity level >= 7 ----
+    df_filtered = df[df["rule.level"] >= 7].sort_values(by="timestamp", ascending=False)
     df_filtered.to_json(output_filtered, orient="records", lines=True)
 
-    # ------------------ PARSE 2: All events (with duplicates), sorted by rule.id ------------------
-    df_all = df.copy()
-    df_all = df_all.sort_values(by="rule.id", ascending=True)
+    # ---- PARSE 2: All events (with duplicates), sorted by rule.id ----
+    df_all = df.sort_values(by="rule.id", ascending=True)
     df_all.to_json(output_all, orient="records", lines=True)
 
-    # ------------------ PARSE 3: Unique descriptions + counter + sort by level ------------------
-    # Count occurrences of each description
+    # ---- PARSE 3: Unique rule descriptions with count, sorted by severity ----
     count = df["rule.description"].value_counts().rename("count").reset_index()
     count.rename(columns={"index": "rule.description"}, inplace=True)
 
-    # Get unique events (latest by timestamp)
-    df_unique_descriptions = (
+    df_unique = (
         df.sort_values(by="timestamp", ascending=False)
           .drop_duplicates(subset="rule.description")
     )
+    df_unique = pd.merge(df_unique, count, on="rule.description")
+    df_unique = df_unique.sort_values(by="rule.level", ascending=False)
 
-    # Merge with counts
-    df_unique_descriptions = pd.merge(df_unique_descriptions, count, on="rule.description")
+    df_unique.to_json(output_by_description, orient="records", lines=True)
 
-    # Sort by threat level
-    df_unique_descriptions = df_unique_descriptions.sort_values(by="rule.level", ascending=False)
+    print(f"[✓] {prefix}: processed successfully.")
 
-    # Export
-    df_unique_descriptions.to_json(output_by_description, orient="records", lines=True)
-
-    print(f"[✓] Parse with level >= 7 exported to: {output_filtered}")
-    print(f"[✓] All events (sorted by rule.id) exported to: {output_all}")
-    print(f"[✓] Unique events by rule.description sorted by level with count exported to: {output_by_description}")
-
-# Run if script is executed directly
 if __name__ == "__main__":
-    parse_logs(input_path, output_filtered, output_all, output_by_description)
+    files = {
+        "real": "../data/real_events.csv",
+        "simulated": "../data/simulated_events.csv"
+    }
+    for prefix, path in files.items():
+        parse_logs(path, prefix)

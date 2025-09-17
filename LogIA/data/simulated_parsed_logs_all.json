@@ -1,0 +1,730 @@
+{"timestamp":1744194278550,"agent.name":"agente-ubuntu","rule.level":3,"rule.id":501,"rule.description":"New wazuh agent connected."}
+{"timestamp":1744196456757,"agent.name":"agente-ubuntu","rule.level":7,"rule.id":553,"rule.description":"File deleted."}
+{"timestamp":1744196515721,"agent.name":"agente-ubuntu","rule.level":7,"rule.id":553,"rule.description":"File deleted."}
+{"timestamp":1744196484366,"agent.name":"agente-ubuntu","rule.level":7,"rule.id":553,"rule.description":"File deleted."}
+{"timestamp":1744196351009,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196316914,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196351019,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196316910,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196351027,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196351035,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196316927,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196351058,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196351060,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196331040,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196351076,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196314981,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196316902,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196350998,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196350984,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196353009,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196350983,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196330958,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196346991,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196335015,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196334982,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196330972,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196330988,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196330991,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196334973,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196334973,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196331001,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196334955,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196331013,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196316936,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196353010,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196331016,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196314938,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196367052,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196367045,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196314921,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196314972,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196369061,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196367037,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196314930,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196369054,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196367026,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196369017,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196367006,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196367061,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196366994,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196369043,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196369034,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196314964,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196314955,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196314947,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196363009,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":2501,"rule.description":"syslog: User authentication failure."}
+{"timestamp":1744196369045,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196367063,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196331042,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196369062,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196334958,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196334975,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196369055,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196335028,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196334969,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196369019,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196375090,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196350992,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196346993,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196350992,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196367039,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196351001,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196367028,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196351009,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196367009,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196351019,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196351029,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196351037,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196363009,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196351065,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196353009,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196353051,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196367054,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196351061,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196334989,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196330961,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196314941,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196314932,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196314923,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196314966,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196314974,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196330972,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196316938,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196330991,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196314957,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196331001,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196330994,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196316916,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196331020,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196316921,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196331016,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196316904,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196375010,"agent.name":"agente-ubuntu","rule.level":3,"rule.id":5501,"rule.description":"PAM: Login session opened."}
+{"timestamp":1744196375054,"agent.name":"agente-ubuntu","rule.level":3,"rule.id":5502,"rule.description":"PAM: Login session closed."}
+{"timestamp":1744196351093,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196351080,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196351088,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196314987,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196351088,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196351088,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196354977,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196351076,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196314989,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196354977,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196314993,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196351086,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196331028,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196367000,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196296890,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196369023,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196296890,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196296890,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196296890,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196296892,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196296907,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196296908,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196296908,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196363050,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196369068,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196369071,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196369074,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196369075,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196369012,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196296908,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196296909,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196296909,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196296909,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196314996,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196369069,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196314998,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196351080,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196335030,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196331031,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196331032,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196331032,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196331034,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196332957,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196369030,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196334990,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196334995,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196334995,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196334996,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196316951,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196316949,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196348965,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196316944,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196369027,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196316942,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196315000,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196315012,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5503,"rule.description":"PAM: User login failed."}
+{"timestamp":1744196369025,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":5551,"rule.description":"PAM: Multiple failed logins in a small period of time."}
+{"timestamp":1744196351048,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":5551,"rule.description":"PAM: Multiple failed logins in a small period of time."}
+{"timestamp":1744196351093,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":5551,"rule.description":"PAM: Multiple failed logins in a small period of time."}
+{"timestamp":1744196314992,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":5551,"rule.description":"PAM: Multiple failed logins in a small period of time."}
+{"timestamp":1744196316946,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":5551,"rule.description":"PAM: Multiple failed logins in a small period of time."}
+{"timestamp":1744196369077,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":5551,"rule.description":"PAM: Multiple failed logins in a small period of time."}
+{"timestamp":1744196296908,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":5551,"rule.description":"PAM: Multiple failed logins in a small period of time."}
+{"timestamp":1744196332939,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":5551,"rule.description":"PAM: Multiple failed logins in a small period of time."}
+{"timestamp":1744196351035,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196367059,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196351019,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196330987,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196316908,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196316901,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196334973,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196353009,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196334969,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196331005,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196316912,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196369015,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196331013,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196331039,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196351072,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196331001,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196334954,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196314919,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196335006,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196353009,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196314979,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196314970,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196350983,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196350983,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196350998,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196314962,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196316934,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196363009,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196316925,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196330958,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196366993,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196314953,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196346988,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196367004,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196314945,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196351056,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196367023,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196314936,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196330966,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196367032,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196367035,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196314928,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196367049,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196351058,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196351008,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196369032,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196369040,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196369049,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196369059,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196310897,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196310896,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196336951,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196336951,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196336952,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196336955,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196336956,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196336958,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196336962,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196310900,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196336966,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196336966,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196336968,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196336972,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196336973,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196338952,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196338952,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196336960,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196310902,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196310907,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196338954,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196334951,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196334951,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196334951,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196314917,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196314915,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196314913,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196314911,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196314909,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196314907,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196314898,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196314898,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196312936,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196312936,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196312936,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196312936,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196312895,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196310909,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196310904,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196338956,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196332998,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196332999,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196344962,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196344964,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196346962,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196346962,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196346965,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196346967,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196346970,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196346971,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196346973,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196346976,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196346978,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196346980,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196346982,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196346984,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196346986,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196310895,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196308914,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196344962,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196344962,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196343000,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196343000,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196338962,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196338964,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196338966,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196340953,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196340954,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196340956,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196340958,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196340960,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196338958,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196340962,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196340966,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196342957,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196342999,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196342999,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196342999,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196342999,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196342999,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196343000,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196340964,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196338960,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196332958,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196308912,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196326919,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196326921,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196326923,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196326925,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196326928,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196326930,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196326932,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196326934,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196326936,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196326939,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196326941,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196328921,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196330940,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196330940,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196330942,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196330942,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196330942,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196326918,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196324940,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196324938,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196324936,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196320933,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196322912,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196322954,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196322954,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196322954,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196322954,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196322954,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196322955,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196330942,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196324915,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196324917,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196324920,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196324923,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196324924,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196324927,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196324929,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196324931,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196324934,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196324916,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196332958,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196330942,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196330945,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196316963,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196316961,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196316959,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196316957,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196316955,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196316953,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196315010,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196315008,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196315006,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196315005,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196315003,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196332957,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196332957,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196332958,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196332958,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196332958,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196332958,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196316965,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196316967,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196318905,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196318906,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196330949,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196330953,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196330954,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196330954,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196320926,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196320923,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196320921,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196320919,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196330945,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196320917,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196320913,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196320911,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196320909,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196320908,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196318914,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196318912,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196318910,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196318908,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196320914,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196348965,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196308910,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196348967,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196362989,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196363008,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196363008,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196363008,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196363008,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196375021,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196375016,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196363009,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196375013,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196363009,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196300882,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196364991,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196364991,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196364994,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196364996,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196364998,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196365001,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196360994,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196365002,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196360992,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196360985,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196356987,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196356990,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196356992,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196358983,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196358984,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196358986,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196358988,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196358990,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196358992,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196358994,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196358997,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196358999,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196359001,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196359003,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196359006,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196359008,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196360985,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196360989,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196365006,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196365008,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196365010,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196373006,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196300880,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196371019,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196371017,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196371017,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196371017,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196371017,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196371017,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196371017,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196368997,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196368997,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196369001,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196369004,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196369006,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196369008,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196369011,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196371017,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196373025,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196373025,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196373025,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196373025,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196365014,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196365015,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196365017,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196375007,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196373067,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196300880,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196373067,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196367002,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196320930,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196373026,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196373025,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196367013,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196367015,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196367017,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196367019,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196367021,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196373025,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196373025,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196373025,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196356983,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196356985,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196356980,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196306906,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196306904,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196306902,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196306900,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196306898,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196306895,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196306893,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196306890,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196306909,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196306889,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196302937,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196302937,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196302937,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196302896,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196302896,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196302896,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196302896,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196302896,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196306889,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196306911,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196306913,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196308889,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196348969,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196348972,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196348974,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196348976,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196348978,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196348980,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196348982,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196350977,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196350978,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196308908,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196350982,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196308905,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196308903,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196308901,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196308899,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196308896,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196308894,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196308892,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196308890,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196302896,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196356981,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196302896,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196302896,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196300888,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196353009,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196300886,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196300884,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196375087,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196375025,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196375023,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196354979,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196354982,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196354983,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196354986,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196354988,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196354990,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196354992,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196354994,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196354997,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196354999,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196302896,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196300891,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196353009,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196353009,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196302877,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196300904,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196300902,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196300900,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196300897,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196300895,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196352973,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196352991,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196352991,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196352991,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196352992,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196352992,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196352992,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196352992,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196352992,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196352991,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196320928,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":5760,"rule.description":"sshd: authentication failed."}
+{"timestamp":1744196360988,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":5763,"rule.description":"sshd: brute force trying to get access to the system. Authentication failed."}
+{"timestamp":1744196300893,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":5763,"rule.description":"sshd: brute force trying to get access to the system. Authentication failed."}
+{"timestamp":1744196314983,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":40111,"rule.description":"Multiple authentication failures."}
+{"timestamp":1744196314949,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":40111,"rule.description":"Multiple authentication failures."}
+{"timestamp":1744196316929,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":40111,"rule.description":"Multiple authentication failures."}
+{"timestamp":1744196369036,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":40111,"rule.description":"Multiple authentication failures."}
+{"timestamp":1744196351076,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":40111,"rule.description":"Multiple authentication failures."}
+{"timestamp":1744196351023,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":40111,"rule.description":"Multiple authentication failures."}
+{"timestamp":1744196331025,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":40111,"rule.description":"Multiple authentication failures."}
+{"timestamp":1744196350980,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":40111,"rule.description":"Multiple authentication failures."}
+{"timestamp":1744196334979,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":40111,"rule.description":"Multiple authentication failures."}
+{"timestamp":1744196366996,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":40111,"rule.description":"Multiple authentication failures."}
+{"timestamp":1744196367045,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":40111,"rule.description":"Multiple authentication failures."}
+{"timestamp":1744196330988,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":40111,"rule.description":"Multiple authentication failures."}
+{"timestamp":1744196375008,"agent.name":"agente-ubuntu","rule.level":12,"rule.id":40112,"rule.description":"Multiple authentication failures followed by a success."}
+{"timestamp":1744195896457,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":40704,"rule.description":"Systemd: Service exited due to a failure."}
+{"timestamp":1744196456151,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196456139,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196456825,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196456127,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196456175,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196456187,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196456211,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196456227,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196456727,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196456754,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196456115,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196456799,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196456163,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484129,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196457978,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196456939,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484063,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484132,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484061,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484058,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484055,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484055,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484051,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196458263,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196458225,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196458187,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196458148,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196458110,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196458074,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196458039,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196456036,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196456908,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196456025,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196455994,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196456005,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196455470,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196455462,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196455303,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196454666,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196454519,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196454513,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196455478,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196454370,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484240,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484242,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484244,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484247,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484248,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484366,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484237,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196455623,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196455631,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196455648,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484065,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196455985,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196455974,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196455963,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196455952,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196455864,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196455856,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196455848,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196455840,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196455831,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196455823,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196455815,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196455810,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196455786,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196455653,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196456016,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484068,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484061,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484233,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484133,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484135,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484137,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484140,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484142,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484144,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484146,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484087,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484148,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484150,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484153,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484155,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484157,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484236,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484161,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484163,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484085,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484166,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484088,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484094,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484127,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484125,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484123,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484121,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484119,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484116,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484114,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484091,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484112,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484109,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484107,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484105,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484104,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484100,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484100,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484097,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484110,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484168,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484160,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484172,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484205,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484205,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484170,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484209,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484210,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484211,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484200,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484213,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484070,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484215,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484216,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484219,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484221,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484223,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484229,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484225,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484231,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484193,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484174,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484083,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484080,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484078,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484077,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484074,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484176,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484195,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484179,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484183,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484185,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484187,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484189,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484072,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484191,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484180,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484228,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100300,"rule.description":"File modified in \/home directory."}
+{"timestamp":1744196484365,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100301,"rule.description":"File added to \/home directory."}
+{"timestamp":1744196454678,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100301,"rule.description":"File added to \/home directory."}
+{"timestamp":1744196453723,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":100301,"rule.description":"File added to \/home directory."}
+{"timestamp":1744196484251,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":108001,"rule.description":"File \"\/home\/mirai\" is a positive match for YARA rule: MAL_ELF_LNX_Mirai_Oct10_2_RID2F3A"}
+{"timestamp":1744196484262,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":108001,"rule.description":"File \"\/home\/xbash\" is a positive match for YARA rule: MAL_Xbash_PY_Sep18_RID2D38"}
+{"timestamp":1744196484197,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":108001,"rule.description":"File \"\/home\/mirai\" is a positive match for YARA rule: SUSP_XORed_Mozilla_Oct19_RID2FA3"}
+{"timestamp":1744196521115,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":108001,"rule.description":"File \"\/home\/webshell\" is a positive match for YARA rule: Webshell_Worse_Linux_Shell_php_RID3323"}
+{"timestamp":1744196525121,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":108001,"rule.description":"File \"\/home\/webshell\" is a positive match for YARA rule: Webshell_Worse_Linux_Shell_1_RID320C"}
+{"timestamp":1744196484262,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":108002,"rule.description":"Active response successfully removed malicious file \"\/home\/xbash\""}
+{"timestamp":1744196457045,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":108002,"rule.description":"Active response successfully removed malicious file \"\/home\/mirai\""}
+{"timestamp":1744196517111,"agent.name":"agente-ubuntu","rule.level":5,"rule.id":108002,"rule.description":"Active response successfully removed malicious file \"\/home\/webshell\""}

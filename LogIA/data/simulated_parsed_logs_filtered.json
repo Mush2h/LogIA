@@ -1,0 +1,126 @@
+{"timestamp":1744196525121,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":108001,"rule.description":"File \"\/home\/webshell\" is a positive match for YARA rule: Webshell_Worse_Linux_Shell_1_RID320C"}
+{"timestamp":1744196521115,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":108001,"rule.description":"File \"\/home\/webshell\" is a positive match for YARA rule: Webshell_Worse_Linux_Shell_php_RID3323"}
+{"timestamp":1744196515721,"agent.name":"agente-ubuntu","rule.level":7,"rule.id":553,"rule.description":"File deleted."}
+{"timestamp":1744196484366,"agent.name":"agente-ubuntu","rule.level":7,"rule.id":553,"rule.description":"File deleted."}
+{"timestamp":1744196484262,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":108001,"rule.description":"File \"\/home\/xbash\" is a positive match for YARA rule: MAL_Xbash_PY_Sep18_RID2D38"}
+{"timestamp":1744196484251,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":108001,"rule.description":"File \"\/home\/mirai\" is a positive match for YARA rule: MAL_ELF_LNX_Mirai_Oct10_2_RID2F3A"}
+{"timestamp":1744196484197,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":108001,"rule.description":"File \"\/home\/mirai\" is a positive match for YARA rule: SUSP_XORed_Mozilla_Oct19_RID2FA3"}
+{"timestamp":1744196456757,"agent.name":"agente-ubuntu","rule.level":7,"rule.id":553,"rule.description":"File deleted."}
+{"timestamp":1744196375090,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196375008,"agent.name":"agente-ubuntu","rule.level":12,"rule.id":40112,"rule.description":"Multiple authentication failures followed by a success."}
+{"timestamp":1744196369077,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":5551,"rule.description":"PAM: Multiple failed logins in a small period of time."}
+{"timestamp":1744196369062,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196369059,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196369055,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196369049,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196369045,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196369040,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196369036,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":40111,"rule.description":"Multiple authentication failures."}
+{"timestamp":1744196369032,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196369025,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":5551,"rule.description":"PAM: Multiple failed logins in a small period of time."}
+{"timestamp":1744196369019,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196369015,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196367063,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196367059,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196367054,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196367049,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196367045,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":40111,"rule.description":"Multiple authentication failures."}
+{"timestamp":1744196367039,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196367035,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196367032,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196367028,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196367023,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196367009,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196367004,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196366996,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":40111,"rule.description":"Multiple authentication failures."}
+{"timestamp":1744196366993,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196363009,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196363009,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196360988,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":5763,"rule.description":"sshd: brute force trying to get access to the system. Authentication failed."}
+{"timestamp":1744196353051,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196353009,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196353009,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196353009,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196351093,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":5551,"rule.description":"PAM: Multiple failed logins in a small period of time."}
+{"timestamp":1744196351076,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":40111,"rule.description":"Multiple authentication failures."}
+{"timestamp":1744196351072,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196351065,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196351061,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196351058,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196351056,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196351048,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":5551,"rule.description":"PAM: Multiple failed logins in a small period of time."}
+{"timestamp":1744196351037,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196351035,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196351029,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196351023,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":40111,"rule.description":"Multiple authentication failures."}
+{"timestamp":1744196351019,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196351019,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196351009,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196351008,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196351001,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196350998,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196350992,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196350992,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196350983,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196350983,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196350980,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":40111,"rule.description":"Multiple authentication failures."}
+{"timestamp":1744196346993,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196346988,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196335028,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196335006,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196334989,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196334979,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":40111,"rule.description":"Multiple authentication failures."}
+{"timestamp":1744196334975,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196334973,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196334969,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196334969,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196334958,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196334954,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196332939,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":5551,"rule.description":"PAM: Multiple failed logins in a small period of time."}
+{"timestamp":1744196331042,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196331039,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196331025,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":40111,"rule.description":"Multiple authentication failures."}
+{"timestamp":1744196331020,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196331016,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196331013,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196331005,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196331001,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196331001,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196330994,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196330991,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196330988,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":40111,"rule.description":"Multiple authentication failures."}
+{"timestamp":1744196330987,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196330972,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196330966,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196330961,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196330958,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196316946,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":5551,"rule.description":"PAM: Multiple failed logins in a small period of time."}
+{"timestamp":1744196316938,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196316934,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196316929,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":40111,"rule.description":"Multiple authentication failures."}
+{"timestamp":1744196316925,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196316921,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196316916,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196316912,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196316908,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196316904,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196316901,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196314992,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":5551,"rule.description":"PAM: Multiple failed logins in a small period of time."}
+{"timestamp":1744196314983,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":40111,"rule.description":"Multiple authentication failures."}
+{"timestamp":1744196314979,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196314974,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196314970,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196314966,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196314962,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196314957,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196314953,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196314949,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":40111,"rule.description":"Multiple authentication failures."}
+{"timestamp":1744196314945,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196314941,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196314936,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196314932,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196314928,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196314923,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":2502,"rule.description":"syslog: User missed the password more than one time"}
+{"timestamp":1744196314919,"agent.name":"agente-ubuntu","rule.level":8,"rule.id":5758,"rule.description":"Maximum authentication attempts exceeded."}
+{"timestamp":1744196300893,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":5763,"rule.description":"sshd: brute force trying to get access to the system. Authentication failed."}
+{"timestamp":1744196296908,"agent.name":"agente-ubuntu","rule.level":10,"rule.id":5551,"rule.description":"PAM: Multiple failed logins in a small period of time."}
