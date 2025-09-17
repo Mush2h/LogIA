@@ -111,10 +111,8 @@ def main():
     filename = "parsed_logs_by_unique_rule_description.json"  # Change if you want to evaluate another file
 
     print("🚀 Parsing input logs...")
-    parse_logs("data/simulated_events.csv",
-               "data/parsed_logs_filtered.json",
-               "data/parsed_logs_all.json",
-               "data/parsed_logs_by_unique_rule_description.json")
+    parse_logs("data/simulated_events.csv", "simulated")
+
     
     # print the log file to be analyzed
     print("\n📂 Log file to analyze:"
