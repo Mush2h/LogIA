@@ -64,7 +64,7 @@ RESPONSE_STYLES = {
         "General diagnosis: ...\n\n"
     ),
     "Topic 5 - Multiple Choice Questions": (
-    "Responde exclusivamente con la letra para cada pregunta, sin justificación, omitiendo caracteres innecesarios y escribiendo directamente:\n"
+    "Answer exclusively with the letter for each question, without justification, omitting unnecessary characters and writing directly:\n\n"
     "1: A/B/C/D/E\n"
     "2: A/B/C/D/E\n"
     "3: A/B/C/D/E\n"
@@ -105,7 +105,7 @@ ONE_SHOT_EXAMPLES = {
                 "recuento": 1
             }
         ],
-        "respuesta": (
+        "answer": (
             "There are 8 events.\n"
             "There are 2 agents: clavo.ugr.es, hera.ugr.es\n"
             "The most critical event is Possible kernel level rootkit with level 11.\n"
@@ -170,7 +170,7 @@ class Dataset:
         if one_shot := ONE_SHOT_EXAMPLES.get(topic):
             prompt += "\n### Example:\n"
             prompt += json.dumps(one_shot["logs"], indent=2) + "\n"
-            prompt += one_shot["respuesta"] + "\n"
+            prompt += one_shot["answer"] + "\n"
 
         # Add real logs + style + questions
         prompt += "\n### Real logs:\n"

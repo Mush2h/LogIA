@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 # Base path for outputs
-output_base = "../data"
+output_base = "data"
 
 def parse_logs(input_path, prefix):
     # Check if the file exists

@@ -8,6 +8,7 @@ from dotenv import load_dotenv
 from llama_index.llms.openai import OpenAI as LlamaOpenAI
 from src.dataset import Dataset
 from lib.parse_logs import parse_logs
+from src.dataset import Dataset, QUESTIONS
 
 load_dotenv()
 
@@ -107,8 +108,8 @@ def select_topic(topics):
     return topics
 
 def main():
-    ds = Dataset("data/")
-    filename = "parsed_logs_by_unique_rule_description.json"  # Change if you want to evaluate another file
+    ds = Dataset("data")
+    filename = "simulated_parsed_logs_by_unique_rule_description.json"  # Change if you want to evaluate another file
 
     print("🚀 Parsing input logs...")
     parse_logs("data/simulated_events.csv", "simulated")
@@ -118,7 +119,7 @@ def main():
     print("\n📂 Log file to analyze:"
           f"\n{filename}")
 
-    all_topics = list(ds._Dataset__questions.keys())
+    all_topics = list(QUESTIONS.keys())
     selected_topics = select_topic(all_topics)
 
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
