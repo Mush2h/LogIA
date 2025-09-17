@@ -27,12 +27,12 @@ QUESTIONS = {
         "What would be your general diagnosis of the system state according to these logs?"
     ],
     "Topic 5 - Multiple Choice Questions": [
-        "What type of attack is detected in multiple log entries?\nA) Port scan\nB) Denial of Service (DoS)\nC) SSH brute force\nD) SQL injection",
-        "Which file was identified with multiple malicious YARA rules?\nA) /etc/passwd\nB) /home/mirai\nC) /var/log/auth.log\nD) /home/unknown",
-        "What is the highest severity level of the events detected by YARA rules?\nA) 3\nB) 12\nC) 7\nD) 10",
-        "What is the most critical event related to sshd?\nA) Successful password change\nB) Authorized root access\nC) Failed brute-force authentication\nD) Session closed",
-        "Which agent is logging all the events?\nA) agent-centos\nB) agent-debian\nC) agent-ubuntu\nD) agent-fedora",
-        "What type of files were detected as malicious by YARA rules?\nA) .docx files\nB) .conf files\nC) Suspicious files in /home/\nD) System executable files"
+    "What type of attack is detected in multiple log entries?\nA) Port scan\nB) Denial of Service (DoS)\nC) SSH brute force\nD) SQL injection\nE) None of the above",
+    "Which file was identified with multiple malicious YARA rules?\nA) /etc/passwd\nB) /home/mirai\nC) /var/log/auth.log\nD) /home/unknown\nE) None of the above",
+    "What is the highest severity level of the events detected by YARA rules?\nA) 3\nB) 12\nC) 7\nD) 10\nE) None of the above",
+    "What is the most critical event related to sshd?\nA) Successful password change\nB) Authorized root access\nC) Failed brute-force authentication\nD) Session closed\nE) None of the above",
+    "Which agent is logging all the events?\nA) agent-centos\nB) agent-debian\nC) agent-ubuntu\nD) agent-fedora\nE) None of the above",
+    "What type of files were detected as malicious by YARA rules?\nA) .docx files\nB) .conf files\nC) Suspicious files in /home/\nD) System executable files\nE) None of the above"
     ]
 }
 
@@ -64,13 +64,13 @@ RESPONSE_STYLES = {
         "General diagnosis: ...\n\n"
     ),
     "Topic 5 - Multiple Choice Questions": (
-        "Answer exclusively with the letter for each question, without justification, omitting unnecessary characters and numbers directly:\n"
-        "1: A/B/C/D\n"
-        "2: A/B/C/D\n"
-        "3: A/B/C/D\n"
-        "4: A/B/C/D\n"
-        "5: A/B/C/D\n"
-        "6: A/B/C/D\n"
+    "Responde exclusivamente con la letra para cada pregunta, sin justificación, omitiendo caracteres innecesarios y escribiendo directamente:\n"
+    "1: A/B/C/D/E\n"
+    "2: A/B/C/D/E\n"
+    "3: A/B/C/D/E\n"
+    "4: A/B/C/D/E\n"
+    "5: A/B/C/D/E\n"
+    "6: A/B/C/D/E\n"
     )
 }
 

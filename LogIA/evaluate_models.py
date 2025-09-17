@@ -10,7 +10,7 @@ load_dotenv()
 api_key = os.getenv("OPENAI_API_KEY")
 
 # 📁 Ground truth path
-ground_truth_path = "eval/ground_truth.json"
+ground_truth_path = "eval/ground_truth_simulated.json" # Path to the ground truth file
 
 # 📁 Responses directory (adjust according to the topic to evaluate)
 
