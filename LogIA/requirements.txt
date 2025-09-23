@@ -1,4 +1,7 @@
 
 pandas>=2.0
 openai>=1.0.0
+llama-index>=0.10.0
+python-dotenv>=1.0.0
+
 

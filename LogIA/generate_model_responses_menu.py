@@ -2,40 +2,67 @@ import os
 import json
 import requests
 import re
-
 from datetime import datetime
 from lib.parse_logs import parse_logs
-
 from dotenv import load_dotenv
 
-# LlamaIndex imports for OpenAI
+# LlamaIndex import for OpenAI
 from llama_index.llms.openai import OpenAI as LlamaOpenAI
 
-# Import your Dataset
+# Local dataset handler
 from src.dataset import Dataset
 
-# 📁 Load environment variables
+# 📁 Load environment variables (e.g., OpenAI API key)
 load_dotenv()
 
-# 📂 Create output directory
+# 📂 Output directory for model responses
 output_dir = "model_responses"
 os.makedirs(output_dir, exist_ok=True)
 
+
+# 🔧 Utility functions ---------------------------------------------------------
+
 def build_openai_model():
-    """Initialize the OpenAI model."""
+    """
+    Initialize the OpenAI GPT-4 model via LlamaIndex wrapper.
+
+    Returns:
+        LlamaOpenAI: Configured GPT-4 model client.
+    """
     return LlamaOpenAI(
         model="gpt-4",
         temperature=0.3,
         api_key=os.getenv("OPENAI_API_KEY")
     )
 
+
 def query_openai(llm, prompt):
-    """Query OpenAI using LlamaIndex."""
+    """
+    Query OpenAI GPT-4 through LlamaIndex.
+
+    Args:
+        llm (LlamaOpenAI): GPT-4 client object.
+        prompt (str): Text prompt to send to the model.
+
+    Returns:
+        str: Model response text.
+    """
     response = llm.complete(prompt)
     return response.text
 
+
 def query_ollama_api(prompt, model="phi4", base_url="http://localhost:11435"):
-    """Query Ollama manually like curl, processing line by line."""
+    """
+    Query a local Ollama model API (streaming mode).
+
+    Args:
+        prompt (str): Input text prompt.
+        model (str): Model identifier in Ollama (e.g., phi4, llama3.2).
+        base_url (str): Base URL of the Ollama service.
+
+    Returns:
+        str | None: Full response text, or None if request failed.
+    """
     url = f"{base_url}/api/generate"
     payload = {
         "model": model,
@@ -43,15 +70,13 @@ def query_ollama_api(prompt, model="phi4", base_url="http://localhost:11435"):
         "temperature": 0.3,
         "stream": True
     }
-
-    headers = {
-        "Content-Type": "application/json"
-    }
+    headers = {"Content-Type": "application/json"}
 
     try:
         response = requests.post(url, data=json.dumps(payload), headers=headers, stream=True, timeout=300)
         response.raise_for_status()
 
+        # Collect streaming output
         full_response = ""
         for line in response.iter_lines(decode_unicode=True):
             if line:
@@ -68,7 +93,14 @@ def query_ollama_api(prompt, model="phi4", base_url="http://localhost:11435"):
         print(f"❌ Error querying Ollama API: {e}")
         return None
 
+
 def select_models():
+    """
+    Interactive menu to select which models will be queried.
+
+    Returns:
+        list[str]: List of selected model identifiers.
+    """
     print("\n📌 Select the model(s) you want to use to answer the questions:")
     print("1. All models")
     print("2. Only OpenAI GPT-4")
@@ -92,14 +124,27 @@ def select_models():
         print("❌ Invalid option. Using all models by default.")
         return ["openai", "phi4", "deepseek-r1_32b", "llama3.2"]
 
+
+# 🚀 Main pipeline ------------------------------------------------------------
+
 def main():
+    """
+    Main execution workflow:
+    1. Parse raw log data.
+    2. Generate a question prompt for the selected topic.
+    3. Query selected models (OpenAI GPT-4 and/or Ollama backends).
+    4. Save model responses to JSON files.
+    5. Provide an interactive menu to inspect responses.
+    """
     ds = Dataset("data/")
-    topic = "Topic 1 - Basic Events"  # Change the topic as needed
+    topic = "Topic 1 - Basic Events"  # Default topic (can be modified)
     filename = "parsed_logs_by_unique_rule_description.json"
 
+    # Parse log data into multiple JSON formats
     parse_logs("data/real_events.csv", "data/parsed_logs_filtered.json",
                "data/parsed_logs_all.json", "data/parsed_logs_by_unique_rule_description.json")
 
+    # Generate a structured prompt for the selected topic
     prompt = ds.generate_prompt(filename, topic)
     print("\n📝 Generated prompt:\n")
     print(prompt)
@@ -107,8 +152,10 @@ def main():
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     generated_answers = {}
 
+    # Select models interactively
     models_to_use = select_models()
 
+    # --- Query OpenAI GPT-4 --------------------------------------------------
     if "openai" in models_to_use:
         print("\n🤖 Querying model: OpenAI GPT-4...\n")
         try:
@@ -131,6 +178,7 @@ def main():
         except Exception as e:
             print(f"⚠️ Error querying OpenAI: {e}")
 
+    # --- Query Ollama models -------------------------------------------------
     ollama_models = ["phi4", "deepseek-r1_32b", "llama3.2"]
     idx = 2
     for ollama_model in ollama_models:
@@ -140,6 +188,7 @@ def main():
             answer_ollama = query_ollama_api(prompt, model=model_api_name)
 
             if answer_ollama:
+                # Clean DeepSeek responses (remove <think>...</think> tags)
                 if ollama_model == "deepseek-r1_32b":
                     answer_ollama = re.sub(r"<think>.*?</think>", "", answer_ollama, flags=re.DOTALL).strip()
 
@@ -159,6 +208,7 @@ def main():
                 print(f"⚠️ Could not get response from {ollama_model}")
             idx += 1
 
+    # --- Interactive inspection menu ----------------------------------------
     while True:
         print("\n📋 Available responses:")
         for option, filepath in generated_answers.items():
@@ -176,6 +226,7 @@ def main():
             ds.show_formatted_answer(generated_answers[choice])
         else:
             print("❌ Invalid option, try again.")
+
 
 if __name__ == "__main__":
     main()
