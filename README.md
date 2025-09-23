@@ -54,8 +54,8 @@ It is designed for research and experimentation in the intersection of **log ana
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/your_repo.git
-   cd your_repo
+   git clone https://github.com/Mush2h/LogIA 
+   cd LogIA
    ```
 
 2. (Optional but recommended) Create a virtual environment:

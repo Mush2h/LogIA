@@ -6,21 +6,34 @@ from dotenv import load_dotenv
 from src.evaluator_human import GroundTruthEvaluator
 from src.evaluator_openAI import Evaluator
 
+# Load environment variables (e.g., OpenAI API key)
 load_dotenv()
 api_key = os.getenv("OPENAI_API_KEY")
 
-# 📁 Ground truth path
-ground_truth_path = "eval/ground_truth_simulated.json" # Path to the ground truth file
+# 📁 Path to ground truth file (for evaluation based on correct answers)
+ground_truth_path = "eval/ground_truth_simulated.json"
 
-# 📁 Responses directory (adjust according to the topic to evaluate)
-
-#responses_dir = "responses_by_topic/topic_1_-_basic_events"
-#responses_dir = "responses_by_topic/topic_2_-_content_summary"
-#responses_dir = "responses_by_topic/topic_3_-_patterns_errors_anomalies"
-#responses_dir = "responses_by_topic/topic_4_-_conclusions"
+# 📁 Directory containing model responses to evaluate
+# Uncomment/change the desired topic folder as needed
+# responses_dir = "responses_by_topic/topic_1_-_basic_events"
+# responses_dir = "responses_by_topic/topic_2_-_content_summary"
+# responses_dir = "responses_by_topic/topic_3_-_patterns_errors_anomalies"
+# responses_dir = "responses_by_topic/topic_4_-_conclusions"
 responses_dir = "responses_by_topic/topic_5_-_multiple_choice_questions"
 
+
+# 🔧 Utility functions ---------------------------------------------------------
+
 def load_responses_from_directory(directory):
+    """
+    Load model responses from JSON files within a given directory.
+
+    Args:
+        directory (str): Path to directory containing response files.
+
+    Returns:
+        dict: Dictionary mapping model name -> response content.
+    """
     responses = {}
     for file_name in os.listdir(directory):
         if not file_name.endswith(".json"):
@@ -36,20 +49,45 @@ def load_responses_from_directory(directory):
             print(f"❌ Error loading {file_name}: {e}")
     return responses
 
+
 def load_ground_truth(path=ground_truth_path):
+    """
+    Load the ground truth file for evaluation.
+
+    Args:
+        path (str): Path to ground truth JSON file.
+
+    Returns:
+        dict: Parsed ground truth content.
+    """
     if not os.path.exists(path):
         raise FileNotFoundError(f"Ground truth file not found: {path}")
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
+
 def save_results(results, base_file_name):
+    """
+    Save evaluation results to a JSON file with timestamp.
+
+    Args:
+        results (dict): Evaluation results.
+        base_file_name (str): Base name for the results file.
+    """
     timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
     file_name = f"results_{base_file_name}_{timestamp}.json"
     with open(file_name, "w", encoding="utf-8") as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
     print(f"\n📝 Results saved to: {file_name}")
 
+
 def evaluation_menu():
+    """
+    Interactive menu to select evaluation mode.
+
+    Returns:
+        str: One of ["groundtruth", "gpt", "gpt_vs_groundtruth"]
+    """
     print("\n🔎 How do you want to evaluate the generated responses?")
     print("1. Use Ground Truth")
     print("2. Use GPT-4 as reference")
@@ -66,7 +104,20 @@ def evaluation_menu():
         print("❌ Invalid option. Using Ground Truth by default.")
         return "groundtruth"
 
+
+# 🚀 Main pipeline ------------------------------------------------------------
+
 def main():
+    """
+    Main evaluation workflow:
+    1. Load responses from the selected topic directory.
+    2. Ask the user to select evaluation mode.
+    3. Run evaluation using:
+       - Ground truth answers
+       - GPT-4 as a reference model
+       - GPT-4 comparing against ground truth
+    4. Print results and save them to timestamped JSON files.
+    """
     eval_mode = evaluation_menu()
     responses_dict = load_responses_from_directory(responses_dir)
 
@@ -116,6 +167,7 @@ def main():
             print(result.get("evaluation", "❌ Evaluation not available"))
 
         save_results(results, "gpt_vs_groundtruth")
+
 
 if __name__ == "__main__":
     main()
