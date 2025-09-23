@@ -1,4 +1,6 @@
-# 🚀 Log Analysis & LLM Model Evaluation Framework
+
+# 📑 Log Analysis & LLM Model Evaluation Framework
+
 
 This repository provides a framework for **parsing real and simulated logs**, generating **responses from multiple LLMs**, and **evaluating model performance** against a ground truth dataset.  
 It is designed for research and experimentation in the intersection of **log analysis, AI-assisted cybersecurity, and model benchmarking**.
