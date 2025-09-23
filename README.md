@@ -72,6 +72,11 @@ It is designed for research and experimentation in the intersection of **log ana
    pip install -r requirements.txt
    ```
 
+4. Set up your OpenAI API key as an environment variable (required for automated evaluation with `evaluator_openAI.py`):
+   ```bash
+   export OPENAI_API_KEY="your_api_key_here"
+   ```
+
 ---
 
 ## 🧑‍💻 Usage
@@ -91,12 +96,6 @@ It is designed for research and experimentation in the intersection of **log ana
 - Compare generated responses against the ground truth:
   ```bash
   python evaluate_models.py
-  ```
-
-### 3. Log Parsing
-- Import and use the log parsing utilities:
-  ```python
-  from lib.parse_logs import parse_logs
   ```
 
 ---
