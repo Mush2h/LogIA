@@ -45,35 +45,36 @@ RESPONSE_STYLES = {
         "Answer briefly and directly. Use the following format exclusively without adding extra:\n"
         "There are X events.\n"
         "There are Y agents: name1, name2...\n"
-        "The most critical event is DESCRIPTION with level N.\n\n"
-        "The most repeated event is DESCRIPTION , N times\n\n"
+        "The most critical event is DESCRIPTION with level N.\n"
+        "The most repeated event is DESCRIPTION, N times.\n\n"
     ),
     "Topic 2 - Content Summary": (
-        "Be as precise as possible, do not add an introduction\n"
+        "Answer in one sentence as precisely as possible, without introduction or extra text.\n\n"
     ),
     "Topic 3 - Patterns, Errors or Anomalies": (
-        "Answer briefly and directly, omit unnecessary characters, and write in one line without introduction. Use the following format:\n"
-        "Choose Yes or No and explain what it is\n"
-        "Choose Yes or No and indicate which alert\n"
-        "List problematic file names\n\n"
+        "Answer briefly and directly in one line per item, without introduction. Use this format:\n"
+        "Anomalous behavior: Yes/No, explanation ...\n"
+        "Failed/repeated access attempts: Yes/No, alert ...\n"
+        "Suspicious/malicious files: list of filenames or None\n\n"
     ),
     "Topic 4 - Conclusions": (
-        "Answer using this template format as briefly as possible, omitting unnecessary characters and without an introduction, in one line:\n"
+        "Answer using this format, as briefly as possible, without introduction:\n"
         "Possible cause of errors: ...\n"
         "Suggested solutions: ...\n"
         "Signs of attack: Yes/No, type: ...\n"
         "General diagnosis: ...\n\n"
     ),
     "Topic 5 - Multiple Choice Questions": (
-        "Answer exclusively with the letter for each question, without justification, omitting unnecessary characters and writing directly:\n\n"
+        "Answer only with the chosen letter(s), without justification or extra text. Format:\n\n"
         "1: A/B/C/D/E\n"
-        "2: A/B/C/D/E\n"
+        "2: A/B/C/D/E (multiple letters allowed if needed)\n"
         "3: A/B/C/D/E\n"
         "4: A/B/C/D/E\n"
         "5: A/B/C/D/E\n"
         "6: A/B/C/D/E\n"
     )
 }
+
 
 # --------------------------
 # One-shot example of input logs + expected answer

@@ -196,10 +196,10 @@ def main():
     4. Save responses to structured JSON.
     """
     ds = Dataset("data")
-    filename = "simulated_parsed_logs_by_unique_rule_description.json"
+    filename = "real_parsed_logs_by_unique_rule_description.json"
 
     print("🚀 Parsing input logs...")
-    parse_logs("data/simulated_events.csv", "simulated")
+    parse_logs("data/real_events.csv", "real")
 
     print("\n📂 Log file to analyze:"
           f"\n{filename}")
