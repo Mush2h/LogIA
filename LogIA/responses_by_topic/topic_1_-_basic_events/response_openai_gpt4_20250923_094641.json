@@ -1,0 +1,12 @@
+{
+  "model": "openai_gpt4",
+  "file": "real_parsed_logs_by_unique_rule_description.json",
+  "topic": "Topic 1 - Basic Events",
+  "questions_answers": {
+    "How many events are in the log file summing the count field?": "There are 365 events.",
+    "How many different agents appear and what are their names?": "There are 5 agents: clavo.ugr.es, hera.ugr.es, hera2, Siem.",
+    "Which type of event is the most critical according to its level?": "The most critical event is Possible kernel level rootkit with level 11.",
+    "Which event is repeated the most times?": "The most repeated event is Samba connection denied., 3221 times."
+  },
+  "timestamp": "20250923_094641"
+}

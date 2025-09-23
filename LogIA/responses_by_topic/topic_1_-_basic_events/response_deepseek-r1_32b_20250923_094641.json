@@ -1,0 +1,12 @@
+{
+  "model": "deepseek-r1_32b",
+  "file": "real_parsed_logs_by_unique_rule_description.json",
+  "topic": "Topic 1 - Basic Events",
+  "questions_answers": {
+    "How many events are in the log file summing the count field?": "There are 12034 events.",
+    "How many different agents appear and what are their names?": "There are 3 agents: hera.ugr.es, clavo.ugr.es, hera2.",
+    "Which type of event is the most critical according to its level?": "The most critical event is sshd: authentication failed., level 5.",
+    "Which event is repeated the most times?": "The most repeated event is PAM: Login session opened., 2689 times."
+  },
+  "timestamp": "20250923_094641"
+}

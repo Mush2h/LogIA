@@ -5,8 +5,8 @@
   "questions_answers": {
     "How many events are in the log file summing the count field?": "[",
     "How many different agents appear and what are their names?": "{",
-    "Which type of event is the most critical according to its level?": "\"count\": 8",
-    "Which event is repeated the most times?": "},"
+    "Which type of event is the most critical according to its level?": "\"timestamp\": 1749969974273,",
+    "Which event is repeated the most times?": "\"agent.name\": \"clavo.ugr.es\","
   },
-  "timestamp": "20250923_073537"
+  "timestamp": "20250923_094641"
 }

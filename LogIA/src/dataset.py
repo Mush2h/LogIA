@@ -67,7 +67,7 @@ RESPONSE_STYLES = {
     "Topic 5 - Multiple Choice Questions": (
         "Answer only with the chosen letter(s), without justification or extra text. Format:\n\n"
         "1: A/B/C/D/E\n"
-        "2: A/B/C/D/E (multiple letters allowed if needed)\n"
+        "2: A/B/C/D/E\n"
         "3: A/B/C/D/E\n"
         "4: A/B/C/D/E\n"
         "5: A/B/C/D/E\n"
