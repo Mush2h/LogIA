@@ -1,0 +1,30 @@
+{
+  "Topic 1 - Basic Events": {
+    "How many events are in the log file when summing the count field?": "There are 730 events.",
+    "How many different agents appear and what are their names?": "There is 1 agent: agent-ubuntu.",
+    "Which event has the highest severity level and what is that level?": "The most critical event is Multiple authentication failures followed by a success with level 12.",
+    "Which event appears the most times according to the count field?": "The event with the highest count is sshd: authentication failed with 339 occurrences."
+  },
+  "Topic 2 - Content Summary": {
+    "Summarize in one line what is happening in the system.": "The system shows repeated failed logins, brute-force attempts, and detection of malicious files with YARA."
+  },
+  "Topic 3 - Patterns, Errors or Anomalies": {
+    "Do you detect any anomalous or suspicious behavior in these logs?": "Yes, multiple failed authentication attempts and presence of malware files.",
+    "Are there failed or repeated access attempts? Which alerts indicate this?": "Yes, indicated by alerts like sshd: brute force authentication failed and PAM: Multiple failed logins.",
+    "Are there suspicious, malicious, deleted, or modified files? Which ones?": "Yes, suspicious files include /home/xbash, /home/webshell, and /home/mirai."
+  },
+  "Topic 4 - Conclusions": {
+    "What could be causing the observed issues or errors?": "Brute-force SSH attacks and execution of malware binaries.",
+    "Suggest possible solutions or mitigation actions for the detected problems.": "Block attacker IPs, enforce two-factor authentication, remove malicious files, and verify system integrity.",
+    "Are there signs of any type of attack or malicious activity? Which one(s)?": "Yes, brute-force authentication attempts and malware infection.",
+    "What would be your overall diagnosis of the system state according to these logs?": "The system is under active attack and partially compromised."
+  },
+  "Topic 5 - Multiple Choice Questions": {
+    "What type of attack is detected in multiple log entries?\nA) Port scan\nB) Denial of Service (DoS)\nC) SSH brute force\nD) Malware infection or malicious files\nE) None of the above": "1: C",
+    "Which files were identified as suspicious or malicious?\nA) /etc/passwd\nB) /home/mirai\nC) /var/log/auth.log\nD) /home/webshell or similar\nE) None of the above": "2: B and D",
+    "What is the highest severity level among the detected events?\nA) 3\nB) 7\nC) 10\nD) 12\nE) None of the above": "3: D",
+    "What is the most critical event related to authentication or sshd?\nA) Successful password change\nB) Authorized root access\nC) Failed or brute-force authentication attempts\nD) Session closed normally\nE) None of the above": "4: C",
+    "Which agent(s) are logging the events?\nA) agent-centos\nB) agent-debian\nC) agent-ubuntu\nD) hera / clavo / others\nE) None of the above": "5: C",
+    "What type of files were detected as malicious or suspicious?\nA) .docx files\nB) .conf configuration files\nC) Files in /home/ directory\nD) System executables\nE) None of the above": "6: C"
+  }
+}

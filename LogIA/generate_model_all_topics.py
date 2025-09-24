@@ -101,7 +101,7 @@ def query_ollama_api(prompt, model="phi4", base_url="http://localhost:11435"):
         str | None: Model response or None if request failed.
     """
     url = f"{base_url}/api/generate"
-    payload = {"model": model, "prompt": prompt, "temperature": 0.1, "stream": True}
+    payload = {"model": model, "prompt": prompt, "temperature": 0.0, "stream": True}
     headers = {"Content-Type": "application/json"}
 
     try:
