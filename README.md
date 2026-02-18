@@ -1,6 +1,6 @@
 
 # 📑 LogIA – Log Intelligence & Evaluation Framework
-<p align="center"> <img src="logia.jpg" alt="LogIA Logo" width="300"/> </p> <p align="center">
+<p align="center"> <img src="logia.png" alt="LogIA Logo" width="400"/> </p> <p align="center">
 
 
 This repository provides a framework for **parsing real and simulated logs**, generating **responses from multiple LLMs**, and **evaluating model performance** against a ground truth dataset.  
