@@ -11,14 +11,18 @@ Evaluation is performed manually against a ground truth dataset.
 
 ```
 ├── data/                           # Simulated datasets
+│   ├── real_events.csv
+│   ├── real_parsed_logs_all.json
+│   ├── real_parsed_logs_by_unique_rule_description.json
+│   ├── real_parsed_logs_filtered.json
 │   ├── simulated_events.csv
 │   ├── simulated_parsed_logs_all.json
 │   ├── simulated_parsed_logs_by_unique_rule_description.json
 │   └── simulated_parsed_logs_filtered.json
 │
 ├── eval/
-│   ├── ground_truth_simulated.json # Ground truth for manual evaluation
-│   └── ground_truth_real.json
+│   ├── ground_truth_real.json      # Ground truth for real logs (manual evaluation)
+│   └── ground_truth_simulated.json # Ground truth for simulated logs (manual evaluation)
 │
 ├── generate_model_all_topics.py    # Generate responses for all topics
 ├── generate_model_responses_menu.py# Generate responses via interactive menu
@@ -84,11 +88,17 @@ Evaluation is performed manually against a ground truth dataset.
 ```bash
 python generate_model_all_topics.py
 ```
+The script will ask you to select:
+1. **Dataset**: Real logs, Simulated logs, or Both
+2. **Topic**: Any specific topic or ALL topics
 
 ### Generate responses via interactive menu (Topic 1)
 ```bash
 python generate_model_responses_menu.py
 ```
+The script will ask you to select:
+1. **Dataset**: Real logs or Simulated logs
+2. **Models**: All models or a specific one
 
 Responses are saved as JSON files in `responses_by_topic/` and `model_responses/`.
 

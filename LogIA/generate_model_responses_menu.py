@@ -71,13 +71,30 @@ def save_response(model_id, filename, topic, prompt, answer, timestamp):
 
 # Main pipeline ----------------------------------------------------------------
 
+DATASETS = {
+    "1": ("real",      "data/real_events.csv",      "real_parsed_logs_by_unique_rule_description.json"),
+    "2": ("simulated", "data/simulated_events.csv",  "simulated_parsed_logs_by_unique_rule_description.json"),
+}
+
+
+def select_dataset():
+    print("\nSelect the dataset to analyze:")
+    print("1. Real logs")
+    print("2. Simulated logs")
+    option = input("Enter the number of your choice: ").strip()
+    if option not in DATASETS:
+        print("Invalid option. Using simulated by default.")
+        return DATASETS["2"]
+    return DATASETS[option]
+
+
 def main():
     ds = Dataset("data/")
     topic = "Topic 1 - Basic Events"
-    filename = "simulated_parsed_logs_by_unique_rule_description.json"
 
-    print("Parsing input logs...")
-    parse_logs("data/simulated_events.csv", "simulated")
+    dataset_key, csv_path, filename = select_dataset()
+    print(f"Parsing {dataset_key} logs...")
+    parse_logs(csv_path, dataset_key)
 
     prompt = ds.generate_prompt(filename, topic)
     print("\nGenerated prompt:\n")

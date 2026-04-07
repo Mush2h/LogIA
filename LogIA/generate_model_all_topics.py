@@ -51,6 +51,29 @@ def save_response(model, topic, filename, questions, response, timestamp):
     print(f"Saved: {file_out}")
 
 
+DATASETS = {
+    "real":      ("data/real_events.csv",       "real_parsed_logs_by_unique_rule_description.json"),
+    "simulated": ("data/simulated_events.csv",  "simulated_parsed_logs_by_unique_rule_description.json"),
+}
+
+
+def select_dataset():
+    print("\nSelect the dataset to analyze:")
+    print("1. Real logs")
+    print("2. Simulated logs")
+    print("3. Both")
+
+    option = input("Enter the number of your choice: ").strip()
+    if option == "1":
+        return ["real"]
+    elif option == "2":
+        return ["simulated"]
+    elif option == "3":
+        return ["real", "simulated"]
+    print("Invalid option. Using simulated by default.")
+    return ["simulated"]
+
+
 def select_topic(topics):
     print("\nSelect a topic to analyze:")
     for i, topic in enumerate(topics, 1):
@@ -84,40 +107,42 @@ def query_model(model_id, model_name, prompt, llm=None):
 
 def main():
     ds = Dataset("data")
-    filename = "simulated_parsed_logs_by_unique_rule_description.json"
-
-    print("Parsing input logs...")
-    parse_logs("data/simulated_events.csv", "simulated")
-    print(f"\nLog file to analyze: {filename}")
-
     all_topics = list(QUESTIONS.keys())
+
+    selected_datasets = select_dataset()
     selected_topics = select_topic(all_topics)
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
 
-    # Build OpenAI client once (reused across all topics)
+    # Build OpenAI client once (reused across all datasets and topics)
     llm = build_openai_model()
 
-    for topic in selected_topics:
-        print(f"\nTopic: {topic}")
-        prompt = ds.generate_prompt(filename, topic)
-        questions = ds.get_questions_by_topic(topic)
+    for dataset_key in selected_datasets:
+        csv_path, filename = DATASETS[dataset_key]
+        print(f"\nParsing {dataset_key} logs...")
+        parse_logs(csv_path, dataset_key)
+        print(f"Log file: {filename}")
 
-        # Query all models in parallel
-        with ThreadPoolExecutor() as executor:
-            futures = {
-                executor.submit(query_model, model_id, model_name, prompt, llm): model_name
-                for model_id, model_name in MODELS.items()
-            }
-            for future in as_completed(futures):
-                model_name = futures[future]
-                try:
-                    model_id, model_name, response = future.result()
-                    if response:
-                        save_response(model_name, topic, filename, questions, response, timestamp)
-                    else:
-                        print(f"No response received from {model_name}.")
-                except Exception as e:
-                    print(f"Error with model {model_name}: {e}")
+        for topic in selected_topics:
+            print(f"\nDataset: {dataset_key} | Topic: {topic}")
+            prompt = ds.generate_prompt(filename, topic)
+            questions = ds.get_questions_by_topic(topic)
+
+            # Query all models in parallel
+            with ThreadPoolExecutor() as executor:
+                futures = {
+                    executor.submit(query_model, model_id, model_name, prompt, llm): model_name
+                    for model_id, model_name in MODELS.items()
+                }
+                for future in as_completed(futures):
+                    model_name = futures[future]
+                    try:
+                        model_id, model_name, response = future.result()
+                        if response:
+                            save_response(model_name, topic, filename, questions, response, timestamp)
+                        else:
+                            print(f"No response received from {model_name}.")
+                    except Exception as e:
+                        print(f"Error with model {model_name}: {e}")
 
     print("\nProcess completed.")
 
