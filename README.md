@@ -2,53 +2,39 @@
 # 📑 LogIA – Log Intelligence & Evaluation Framework
 <p align="center"> <img src="Logia.png" alt="LogIA Logo" width="400"/> </p> <p align="center">
 
-
-This repository provides a framework for **parsing real and simulated logs**, generating **responses from multiple LLMs**, and **evaluating model performance** against a ground truth dataset.  
-It is designed for research and experimentation in the intersection of **log analysis, AI-assisted cybersecurity, and model benchmarking**.
+This repository provides a framework for **parsing real and simulated logs** and generating **responses from multiple LLMs** to assist in AI-assisted cybersecurity research and log analysis.  
+Evaluation is performed manually against a ground truth dataset.
 
 ---
 
 ## 📂 Repository Structure
 
 ```
-├── data/                           # Real and simulated datasets
-│   ├── real_events.csv
-│   ├── real_parsed_logs_all.json
-│   ├── real_parsed_logs_by_unique_rule_description.json
-│   ├── real_parsed_logs_filtered.json
+├── data/                           # Simulated datasets
 │   ├── simulated_events.csv
 │   ├── simulated_parsed_logs_all.json
 │   ├── simulated_parsed_logs_by_unique_rule_description.json
 │   └── simulated_parsed_logs_filtered.json
 │
 ├── eval/
-│   └── ground_truth_simulated.json # Ground truth for evaluation
+│   ├── ground_truth_simulated.json # Ground truth for manual evaluation
+│   └── ground_truth_real.json
 │
-├── evaluate_models.py              # Main evaluation script
 ├── generate_model_all_topics.py    # Generate responses for all topics
 ├── generate_model_responses_menu.py# Generate responses via interactive menu
 │
 ├── lib/
-│   ├── parse_logs.py               # Log parsing utilities
-│   └── __pycache__/                # Compiled Python files
+│   └── parse_logs.py               # Log parsing utilities (CSV → JSON)
 │
 ├── model_responses/                # Generated model responses (JSON format)
 │
 ├── requirements.txt                # Python dependencies
 │
 ├── responses_by_topic/             # Responses organized by topic
-│   └── topic_1_-_basic_events/
-│       ├── response_deepseek-r1_32b_20250917_130244.json
-│       ├── response_llama3.2_20250917_130244.json
-│       ├── response_openai_gpt4_20250917_130157.json
-│       ├── response_openai_gpt4_20250917_130244.json
-│       └── response_phi4_20250917_130244.json
 │
 └── src/
-    ├── dataset.py                  # Dataset handling and preprocessing
-    ├── evaluator_human.py          # Human-based evaluation
-    ├── evaluator_openAI.py         # Automated evaluation with OpenAI
-    └── __pycache__/                # Compiled Python files
+    ├── dataset.py                  # Dataset handling and prompt generation
+    └── model_client.py             # Unified client for OpenAI and DeepInfra
 ```
 
 ---
@@ -57,7 +43,7 @@ It is designed for research and experimentation in the intersection of **log ana
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mush2h/LogIA 
+   git clone https://github.com/Mush2h/LogIA
    cd LogIA
    ```
 
@@ -73,28 +59,41 @@ It is designed for research and experimentation in the intersection of **log ana
    pip install -r requirements.txt
    ```
 
-4. Set up your OpenAI API key as an environment variable (required for automated evaluation with `evaluator_openAI.py`):
-   ```bash
-   export OPENAI_API_KEY="your_api_key_here"
+4. Create a `.env` file in the `LogIA/` directory with your API keys:
    ```
+   OPENAI_API_KEY=your_openai_api_key_here
+   DEEPINFRA_API_KEY=your_deepinfra_api_key_here
+   ```
+
+---
+
+## 🤖 Models Used
+
+| Model | Provider |
+|---|---|
+| GPT-4 | OpenAI |
+| microsoft/phi-4 | DeepInfra |
+| deepseek-ai/DeepSeek-R1 | DeepInfra |
+| meta-llama/Llama-3.2-11B-Vision-Instruct | DeepInfra |
 
 ---
 
 ## 🧑‍💻 Usage
 
-### 1. Generate Model Responses
-- Generate responses for **all topics**:
-  ```bash
-  python generate_model_all_topics.py
-  ```
+### Generate model responses for all topics
+```bash
+python generate_model_all_topics.py
+```
 
-- Generate responses via **interactive menu**:
-  ```bash
-  python generate_model_responses_menu.py
-  ```
+### Generate responses via interactive menu (Topic 1)
+```bash
+python generate_model_responses_menu.py
+```
 
+Responses are saved as JSON files in `responses_by_topic/` and `model_responses/`.
 
 ---
+
 ## 🧪 Evaluation Questions
 
 The framework evaluates models across multiple analytical dimensions using the following structured question set:
@@ -174,6 +173,8 @@ B) .conf files
 C) Suspicious files in /home/
 D) System executable files
 E) None of the above
+
+---
 
 ## 📜 License
 
