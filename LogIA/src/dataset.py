@@ -145,6 +145,8 @@ class Dataset:
         if not self.data_path.exists():
             raise FileNotFoundError("The path does not exist. Verify the JSON files.")
         self.files = self._get_json_files()
+        self._log_cache: Dict[str, List[Dict]] = {}
+        self._prompt_cache: Dict[tuple, str] = {}
 
     def _get_json_files(self) -> List[Path]:
         """
@@ -157,7 +159,7 @@ class Dataset:
 
     def load_logs(self, file_name: str) -> List[Dict]:
         """
-        Load logs from a JSON file line by line.
+        Load logs from a JSON file line by line. Results are cached in memory.
 
         Args:
             file_name (str): Name of the JSON log file.
@@ -165,9 +167,11 @@ class Dataset:
         Returns:
             List[Dict]: Parsed log entries.
         """
-        file_path = self.data_path / file_name
-        with file_path.open("r", encoding="utf-8") as f:
-            return [json.loads(line) for line in f]
+        if file_name not in self._log_cache:
+            file_path = self.data_path / file_name
+            with file_path.open("r", encoding="utf-8") as f:
+                self._log_cache[file_name] = [json.loads(line) for line in f]
+        return self._log_cache[file_name]
 
     def get_questions_by_topic(self, topic: str) -> List[str]:
         """
@@ -201,6 +205,8 @@ class Dataset:
         - The required response style.
         - The topic-specific questions.
 
+        Results are cached so repeated calls with the same arguments are free.
+
         Args:
             file_name (str): Log file name.
             topic (str): Topic to generate prompt for.
@@ -208,21 +214,25 @@ class Dataset:
         Returns:
             str: Constructed prompt for the model.
         """
+        cache_key = (file_name, topic)
+        if cache_key in self._prompt_cache:
+            return self._prompt_cache[cache_key]
+
         logs = self.load_logs(file_name)[:44]
         style = self._get_response_style(topic)
         questions = "\n".join(self.get_questions_by_topic(topic))
         prompt = "Answer the questions strictly following the templates as precisely as possible.\n"
 
-        # If a one-shot example exists for the topic, include it
         if one_shot := ONE_SHOT_EXAMPLES.get(topic):
             prompt += "\n### Example:\n"
             prompt += json.dumps(one_shot["logs"], indent=2) + "\n"
             prompt += one_shot["answer"] + "\n"
 
-        # Add real logs, response style, and questions
         prompt += "\n### Real logs:\n"
         prompt += json.dumps(logs, indent=2) + "\n\n"
         prompt += style + questions
+
+        self._prompt_cache[cache_key] = prompt
         return prompt
 
     def show_formatted_answer(self, answer_file: str):
