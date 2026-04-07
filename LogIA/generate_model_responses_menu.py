@@ -96,7 +96,7 @@ def query_ollama_api(prompt, model="phi4", base_url="http://localhost:11435"):
 
 def select_models():
     """
-    Interactive menu to select which models will be queried.
+     menu to select which models will be queried.
 
     Returns:
         list[str]: List of selected model identifiers.
