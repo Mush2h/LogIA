@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 from src.dataset import Dataset, QUESTIONS
 from src.model_client import (
-    build_openai_model, query_openai,
+    build_openai_client, query_openai,
     query_deepinfra, clean_deepseek_response, DEEPINFRA_MODELS
 )
 from lib.parse_logs import parse_logs
@@ -114,7 +114,7 @@ def main():
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
 
     # Build OpenAI client once (reused across all datasets and topics)
-    llm = build_openai_model()
+    llm = build_openai_client()
 
     for dataset_key in selected_datasets:
         csv_path, filename = DATASETS[dataset_key]

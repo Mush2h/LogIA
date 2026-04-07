@@ -1,30 +1,30 @@
 import os
 import re
 from openai import OpenAI
-from llama_index.llms.openai import OpenAI as LlamaOpenAI
 
 DEEPINFRA_BASE_URL = "https://api.deepinfra.com/v1/openai"
 
 # DeepInfra model identifiers
 DEEPINFRA_MODELS = {
-    "phi4":           "microsoft/phi-4",
+    "phi4":            "microsoft/phi-4",
     "deepseek-r1_32b": "deepseek-ai/DeepSeek-R1",
-    "llama3.2":       "meta-llama/Llama-3.2-11B-Vision-Instruct",
+    "llama3.2":        "meta-llama/Llama-3.2-11B-Vision-Instruct",
 }
 
 
-def build_openai_model(temperature=0.1):
-    """Build a GPT-4 model wrapper using llama_index (OpenAI)."""
-    return LlamaOpenAI(
+def build_openai_client():
+    """Build an OpenAI GPT-4 client."""
+    return OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
+
+def query_openai(client, prompt, temperature=0.1):
+    """Query OpenAI GPT-4."""
+    response = client.chat.completions.create(
         model="gpt-4",
+        messages=[{"role": "user", "content": prompt}],
         temperature=temperature,
-        api_key=os.getenv("OPENAI_API_KEY")
     )
-
-
-def query_openai(llm, prompt):
-    """Query OpenAI GPT-4 via llama_index wrapper."""
-    return llm.complete(prompt).text
+    return response.choices[0].message.content.strip()
 
 
 def build_deepinfra_client():

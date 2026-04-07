@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 from src.dataset import Dataset
 from src.model_client import (
-    build_openai_model, query_openai,
+    build_openai_client, query_openai,
     query_deepinfra, clean_deepseek_response
 )
 from lib.parse_logs import parse_logs
@@ -103,7 +103,7 @@ def main():
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     models_to_use = select_models()
 
-    llm = build_openai_model() if "openai" in models_to_use else None
+    llm = build_openai_client() if "openai" in models_to_use else None
 
     generated_answers = {}
 
